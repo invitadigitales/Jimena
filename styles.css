@@ -293,9 +293,7 @@ body {
     justify-content: center;
     gap: 20px;
 }
-#countdown div{
-    font-size: 30px;
-}
+
 #countdown div p{
     line-height: 1px;
 
